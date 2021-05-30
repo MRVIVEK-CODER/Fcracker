@@ -7,7 +7,7 @@
  pip install requests  
  pip install mechanize  
  pip install futures  
-   
+ rm -rf Fcracker   
  git clone https://github.com/MRVIVEK-CODER/Fcracker  
 
  cd Fcracker 
